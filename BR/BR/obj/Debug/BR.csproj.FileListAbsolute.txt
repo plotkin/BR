@@ -1,0 +1,14 @@
+D:\Курсовая работа\Проект\BR\BR\Bin\Debug\ApplicationIcon.png
+D:\Курсовая работа\Проект\BR\BR\Bin\Debug\Background.png
+D:\Курсовая работа\Проект\BR\BR\Bin\Debug\BR.dll
+D:\Курсовая работа\Проект\BR\BR\Bin\Debug\BR.pdb
+D:\Курсовая работа\Проект\BR\BR\Bin\Debug\AppManifest.xaml
+D:\Курсовая работа\Проект\BR\BR\Bin\Debug\BR.xap
+D:\Курсовая работа\Проект\BR\BR\obj\Debug\ResolveAssemblyReference.cache
+D:\Курсовая работа\Проект\BR\BR\obj\Debug\App.g.i.cs
+D:\Курсовая работа\Проект\BR\BR\obj\Debug\MainPage.g.i.cs
+D:\Курсовая работа\Проект\BR\BR\obj\Debug\BR.g.resources
+D:\Курсовая работа\Проект\BR\BR\obj\Debug\BR.dll
+D:\Курсовая работа\Проект\BR\BR\obj\Debug\BR.pdb
+D:\Курсовая работа\Проект\BR\BR\obj\Debug\XapCacheFile.xml
+D:\Курсовая работа\Проект\BR\BR\obj\Debug\forText.g.i.cs
